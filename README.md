@@ -1,4 +1,4 @@
-<img src="[https://your-image-url.com](https://unsplash.com/photos/a-pair-of-white-letters-sitting-on-top-of-a-black-surface-BBp1PmvfmdU)" alt="Background Image" style="width:100%; height:auto;" />
+<p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
 # 💫 About Me:
 🔭 I’m currently working on Go microservices and MERN stack projects.<br>👯 I’m looking to collaborate on Go and full-stack web apps.<br>🌱 I’m currently learning Go, AWS deployment, and third-party integrations.<br>⚡ Fun fact: Go is like building blocks—simple pieces, great results.
 
