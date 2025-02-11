@@ -3,7 +3,7 @@
 # 💫 About Me: ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Harshjosh361)
 🔭 I’m currently working on Go microservices and MERN stack projects.<br>👯 I’m looking to collaborate on Go and full-stack web apps.<br>🌱 I’m currently learning Go, AWS deployment, and third-party integrations.<br>⚡ Fun fact: Go is like building blocks—simple pieces, great results.
 
-
+![Dancing Gopher](https://github.com/andrew-sameh/andrew-sameh/blob/main/dancing-gopher.gif)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_harsh361/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshjosh361)
