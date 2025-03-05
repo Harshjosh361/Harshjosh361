@@ -15,7 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harshjosh361&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshjosh361&theme=radical)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjosh361&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![An image of @harshjosh361's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshjosh361)](https://holopin.io/@harshjosh361)
